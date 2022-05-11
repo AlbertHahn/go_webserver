@@ -4,7 +4,7 @@ import (
 	"flag"
 	"log"
 
-	"github.com/AlbertHahn/go_webserver/http-server/pkg/server"
+	"github.com/AlbertHahn/go_webserver/pkg/server"
 )
 
 func main() {
